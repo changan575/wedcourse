@@ -1,20 +1,20 @@
 p {
   /* font-family: 'Segoe Script'; */
   color: darkorange;
+  font-size: 2vw;
 }
 h1 {
   border-bottom: 1px solid black;
+  font-size: 2rem;
 }
 h1,h2 {
  font-family: "Cascadia Mono"
  color: grey;
-}
-body {
-	font-size: 14px;
-	font-size: 150%;
-	font-size: 1.2em;
-	font-size: 5 vh;
+ font-size: 1.4rem;
 }
 body {
   font-family: 'Segoe Script';
+}
+html {
+  font-size: 20px;
 }
