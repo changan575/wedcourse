@@ -1,6 +1,6 @@
 p {
   /* font-family: 'Segoe Script'; */
-  color: darkorange;
+  color: #bf3;
   font-size: 2vw;
 }
 h1 {
@@ -17,4 +17,12 @@ body {
 }
 html {
   font-size: 20px;
+}
+body{
+	color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+  background-color:#93b5cf
 }
