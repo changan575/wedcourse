@@ -24,6 +24,6 @@ body {
   background-image: url(images/background.gif);
   background-repeat: no-repeat;
   background-position: top left;
-  border-bottom-left-radius: 15px;
-  border-top-right-radius: 2em;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 2em;
 }
