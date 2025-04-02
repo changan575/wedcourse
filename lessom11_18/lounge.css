@@ -27,3 +27,23 @@ body {
   border-top-right-radius: 15px;
   border-bottom-left-radius: 2em;
 }
+.elixirs {
+  border-width: thin;
+  border-style: solid;
+  border-color: #007e7e;
+  width: 200px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  margin-left: 20px;
+  text-align: center;
+  background-image: url(images/cocktail.gif);
+  background-repeat: repeat-x;
+}
+div.elixirs h2 {
+  color: black;
+}
+.elixirs{
+  line-height: 1;
+
+}
