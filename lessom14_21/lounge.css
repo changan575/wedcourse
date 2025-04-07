@@ -39,6 +39,7 @@ body {
   text-align: center;
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+  float: right;
 }
 div.elixirs h2 {
   color: black;
@@ -64,28 +65,15 @@ a:visited {
 a:hover {
   color: yellow;
 }
-h1, h2 {
-  font-weight: 600;
-}
-h1 {
-     font-weight: 200; 
-  }
-.green-font {
-  color: green;
-}
-.red-font {
-  color: red;
+.left {
+	margin-right: 30px;
 }
 
-.blue-font {
-  color: blue;
+.right {
+	margin-left: 20px;
 }
-body h1 {
-  color: silver;
-}
-p h1 {
-  color: gold;
-}
-h1 {
-  color: blue;
+
+.ruler {
+	display: inline-block;
+	width: 50px;
 }
